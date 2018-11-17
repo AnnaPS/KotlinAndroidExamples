@@ -11,7 +11,7 @@ Aplicación con ejemplos de uso de kotlin en Android.
 - **Picasso**
 - **Shared Preferences**
 
-## Modificacion Manifest
+## Modificación Manifest
 - **Permisos**
 ```
     <uses-permission android:name="android.permission.INTERNET" />
