@@ -7,7 +7,7 @@ Aplicación con ejemplos de uso de kotlin en Android.
 - **Kotlin Android Extensions**
 - **Life Cycle (onResume, onCreate, onPause, onDestroy)**
 - **ListView**
-- **Permisions**
+- **Permissions**
 - **Picasso**
 - **Shared Preferences**
 
